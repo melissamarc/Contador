@@ -1,1 +1,1 @@
-# Getting Started with Create React App
+# Este projeto é um contador de cliques criado com React JS
